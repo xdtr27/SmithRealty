@@ -3,8 +3,6 @@
 ## Descrição
 
 
-Você pode visualizar o projeto funcionando aqui: [Deploy do Projeto](https://smith-realt-436wr8sxo-xdtr27s-projects.vercel.app/)
-
 O projeto consiste numa aplicação simples para gerenciamento de propriedades imobiliárias. Ela é capaz de consumir dados de propriedades de uma API e executar as seguintes funções:
 
 - Listar as propriedades
