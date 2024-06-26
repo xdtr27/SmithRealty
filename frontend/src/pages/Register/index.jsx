@@ -21,7 +21,7 @@ export default function Register() {
   async function addProperty(dataProperty) {
     try {
       const response = await axios.post(
-        "https://api-smithrealty.onrender.com/properties",
+        "http://localhost:3001/properties",
         dataProperty
       );
       console.log(response.data);

@@ -18,7 +18,7 @@ export default function Home() {
   
   useEffect(() => {
     async function getProperties() {
-      const response = await axios.get("https://api-smithrealty.onrender.com/properties");
+      const response = await axios.get("http://localhost:3001/properties");
       try {
         setDataProperties(response.data);
       } catch (error) {

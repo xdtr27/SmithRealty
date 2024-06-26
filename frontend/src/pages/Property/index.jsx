@@ -32,7 +32,7 @@ export default function Property() {
   useEffect(() => {
     async function getPropertyDetails() {
       const response = await axios.get(
-        `https://api-smithrealty.onrender.com/properties/${params.id}`
+        `http://localhost:3001/properties/${params.id}`
       );
       setProperty(response.data);
     }
