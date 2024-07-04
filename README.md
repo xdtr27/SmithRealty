@@ -84,5 +84,5 @@ Para rodar o projeto, será necessário instalar algumas dependências. Utilize 
    1. Execute a API no backend como foi ensinado acima.
  </p>
 <p>
-  2. Acesse o front-end da aplicação aqui: <a href="https://smith-realt-22k3j0nq1-xdtr27s-projects.vercel.app/">SmithRealty<a>
+  2. Acesse o front-end da aplicação aqui: <a target="_blank" href="https://smith-realt-22k3j0nq1-xdtr27s-projects.vercel.app/">SmithRealty<a>
 </p>
