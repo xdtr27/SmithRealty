@@ -70,7 +70,7 @@ Para rodar o projeto, será necessário instalar algumas dependências. Utilize 
    Uma mensagem será exibida na console informando a porta na qual o servidor está rodando.
 </p>
 <br/>
-### Front-end - Execução>
+### Front-end - Execução
 <br/>
 <p>
    Na pasta <strong>frontend</strong> você poderá executar a API com o comando <code>npm run dev</code>
